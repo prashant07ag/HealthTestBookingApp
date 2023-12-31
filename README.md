@@ -1,4 +1,4 @@
-# digi_diagnos
+# Health_diagnos
 
 A new Flutter project.
 
