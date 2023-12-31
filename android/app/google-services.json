@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "218627968974",
+    "project_id": "heathdiagnose",
+    "storage_bucket": "heathdiagnose.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218627968974:android:ff281fcaa116be8d86659f",
+        "android_client_info": {
+          "package_name": "com.example.digi_diagnos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmYiy_rD6Qcv0ea9sGNQThuZ0TfhDGuJ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
