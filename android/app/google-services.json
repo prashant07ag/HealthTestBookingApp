@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "218627968974",
-    "project_id": "heathdiagnose",
-    "storage_bucket": "heathdiagnose.appspot.com"
+    "project_number": "2035463667",
+    "project_id": "healthtest-35b89",
+    "storage_bucket": "healthtest-35b89.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:218627968974:android:ff281fcaa116be8d86659f",
+        "mobilesdk_app_id": "1:2035463667:android:d24799d7963133c9620e86",
         "android_client_info": {
           "package_name": "com.example.digi_diagnos"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyBmYiy_rD6Qcv0ea9sGNQThuZ0TfhDGuJ4"
+          "current_key": "AIzaSyCQ_OV4WSC3P-o1dOV6NhWjpJ-Wmpsh-Cw"
         }
       ],
       "services": {

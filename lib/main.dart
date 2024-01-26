@@ -10,11 +10,11 @@ void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await Firebase.initializeApp(
     options: FirebaseOptions(
-      apiKey: "AIzaSyBmYiy_rD6Qcv0ea9sGNQThuZ0TfhDGuJ4",
-      appId: "1:218627968974:android:ff281fcaa116be8d86659f",
-      messagingSenderId: "218627968974",
-      projectId: "heathdiagnose",
-      storageBucket: "heathdiagnose.appspot.com",
+      apiKey: "AIzaSyCQ_OV4WSC3P-o1dOV6NhWjpJ-Wmpsh-Cw",
+      appId: "1:2035463667:android:d24799d7963133c9620e86",
+      messagingSenderId: "2035463667",
+      projectId: "healthtest-35b89",
+      storageBucket: "healthtest-35b89.appspot.com",
     ),
   );
   runApp(const MyApp());

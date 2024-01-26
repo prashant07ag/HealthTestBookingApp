@@ -1,3 +1,4 @@
+import 'package:digi_diagnos/screens/booking.dart';
 import 'package:flutter/material.dart';
 
 class OffersCard extends StatelessWidget {
@@ -133,6 +134,10 @@ class OffersCard extends StatelessWidget {
               child: ElevatedButton(
                 onPressed: () {
                   // Add logic for rescheduling the booking
+                  Navigator.push(
+                  context,
+                  MaterialPageRoute(builder: (context) => BookingScreen()),
+                  );
                 },
                 style: ElevatedButton.styleFrom(primary: Color(0xFF3E69FE)),
                 child: Text(

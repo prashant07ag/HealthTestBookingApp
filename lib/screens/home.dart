@@ -587,7 +587,7 @@ class HomeScreen extends StatelessWidget {
                           children: [
                             LabCard(lab: topLabs[0]),
                             SizedBox(height: 5),
-                            LabCard(lab: topLabs[1]),
+                            LabCard(lab: topLabs[0]),
                           ],
                         );
                       }
